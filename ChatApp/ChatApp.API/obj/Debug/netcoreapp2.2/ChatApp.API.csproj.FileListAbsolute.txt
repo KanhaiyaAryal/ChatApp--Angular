@@ -1,0 +1,14 @@
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/bin/Debug/netcoreapp2.2/ChatApp.API.deps.json
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/bin/Debug/netcoreapp2.2/ChatApp.API.runtimeconfig.json
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/bin/Debug/netcoreapp2.2/ChatApp.API.runtimeconfig.dev.json
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/bin/Debug/netcoreapp2.2/ChatApp.API.dll
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/bin/Debug/netcoreapp2.2/ChatApp.API.pdb
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/obj/Debug/netcoreapp2.2/ChatApp.API.csprojAssemblyReference.cache
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/obj/Debug/netcoreapp2.2/ChatApp.API.csproj.CoreCompileInputs.cache
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/obj/Debug/netcoreapp2.2/ChatApp.API.RazorAssemblyInfo.cache
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/obj/Debug/netcoreapp2.2/ChatApp.API.RazorAssemblyInfo.cs
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/obj/Debug/netcoreapp2.2/ChatApp.API.AssemblyInfoInputs.cache
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/obj/Debug/netcoreapp2.2/ChatApp.API.AssemblyInfo.cs
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/obj/Debug/netcoreapp2.2/ChatApp.API.RazorTargetAssemblyInfo.cache
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/obj/Debug/netcoreapp2.2/ChatApp.API.dll
+/Users/kanaiyaaryal/MyProject/ChatApp/ChatApp.API/obj/Debug/netcoreapp2.2/ChatApp.API.pdb
